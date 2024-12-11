@@ -75,6 +75,7 @@ The system consisted of loosely coupled Python modules, communicating asynchrono
 - **Flexibility:** Technology-agnostic, enabling innovation in individual modules.
 
 ![Application](https://github.com/emrecdr/presentations/blob/main/arch_doc.jpg)
+![Application](/presentations/assets/arch_doc.jpg)
 
 **Key Components:**  
 - `Sonicare_ble`: Collects sensor data via Bluetooth.
